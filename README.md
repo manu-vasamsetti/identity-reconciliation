@@ -18,5 +18,5 @@ This project is built to solve the backend identity reconciliation challenge whe
 ### 1️⃣ Clone or Download This Repository
 
 ```bash
-git clone https://github.com/<your-username>/identity-reconciliation.git
+git clone https://github.com/manu-vasamsetti/identity-reconciliation.git
 cd identity-reconciliation
