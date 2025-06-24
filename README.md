@@ -1,7 +1,3 @@
-
-
-
-```markdown
 # 🧠 Identity Reconciliation API – FastAPI + PostgreSQL
 
 This project is a backend service built using **FastAPI** and **PostgreSQL** to resolve identities from fragmented contact information. It is designed for Moonrider’s integration with Zamazon.com, where users like "Doc" may use different emails and phone numbers across purchases.
